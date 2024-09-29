@@ -4,9 +4,7 @@
 - 🌐 Web & mobile app fan, driven by curiosity and teamwork
 - 🌱 I’m currently learning more about laravel technology and databases. 
 - 💡 Love learning, sharing, and building cool stuff with the dev community
-- 📫 How to reach me :
-      - email address : abdulrahman.othman.sy@gmail.com
-      - linkedIn :
+- 📫 How to reach me : abdulrahman.othman.sy@gmail.com
 - 🚀 Let’s make something awesome together!
 
 
