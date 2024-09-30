@@ -5,7 +5,7 @@
 ---
 
 <!-- About Me Section -->
-### 👨‍💻 About Me
+### 🔍 About Me
 - 👨‍💻 Junior dev | 🛠️ Geeked out on Laravel, .NET, PHP, C#, and always chasing the latest in AI
 - 🎓 Third-year student at IT university, always leveling up my skills
 - 🌐 Web & mobile app fan, driven by curiosity and teamwork
@@ -50,3 +50,13 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://leetcode.com/u/Abdulrahman-othman"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"></a>
 </p>
+
+--- 
+
+### **💻✨ Favorite Quote**
+<div align="center" style="border: 2px dashed #512BD4; padding: 20px; background-color: #f0f8ff; border-radius: 10px;">
+    <p style="font-size: 1.5em; font-style: italic; color: #333;">
+        "Writing code is like composing music—every line has a purpose!"
+    </p>
+</div>
+
