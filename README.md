@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:abdulrahman.othman.sy@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
 </a>
-<a href="https://leetcode.com/your-profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/Abdulrahman-othman"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"></a>
 </p>
