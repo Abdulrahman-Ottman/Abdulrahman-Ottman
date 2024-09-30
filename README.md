@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Let's Connect Section -->
 ### 📫 How to reach me :
 <p align="center">
-    <a href="www.linkedin.com/in/abdulrahman-othman-03a1b6330"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/abdulrahman-othman-03a1b6330/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:abdulrahman.othman.sy@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
 </a>
