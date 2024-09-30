@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="CSharp">
     <img src="https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL">
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" alt="Visual Studio">
 </p>
 
 ---
@@ -44,7 +43,9 @@ You can click the Preview link to take a look at your changes.
 <!-- Let's Connect Section -->
 ### 📫 How to reach me :
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
-    <a href="https://leetcode.com/your-profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"></a>
+    <a href="www.linkedin.com/in/abdulrahman-othman-03a1b6330"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:abdulrahman.othman.sy@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+</a>
+<a href="https://leetcode.com/your-profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"></a>
 </p>
