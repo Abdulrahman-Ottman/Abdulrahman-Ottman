@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hey there, I'm Abdulrahman 👋</h1>
-<h3 align="center">A passionate junior Back-End Developer</h3>
+<h3 align="center">A passionate Back-End Developer</h3>
 
 ---
 
