@@ -11,6 +11,7 @@
 - 🌐 Web & mobile app fan, driven by curiosity and teamwork
 - 🌱 I’m currently learning more about laravel technology and databases. 
 - 💡 Love learning, sharing, and building cool stuff with the dev community
+- [Check out my personal website](https://abdulrahman-ottman.github.io/Personal-Website/) for more!
 
 <!---
 Abdulrahman-Ottman/Abdulrahman-Ottman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
