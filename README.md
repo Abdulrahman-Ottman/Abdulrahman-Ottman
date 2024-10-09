@@ -30,6 +30,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL">
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
+    <img src="https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
 </p>
 
 ---
