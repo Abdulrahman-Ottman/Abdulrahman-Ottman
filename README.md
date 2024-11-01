@@ -76,4 +76,10 @@ You can click the Preview link to take a look at your changes.
         "Writing code is like composing music—every line has a purpose!"
     </p>
 </div>
+<br>
+<br>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ottman&color=blue)
+
 
