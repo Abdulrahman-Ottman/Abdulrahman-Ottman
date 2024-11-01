@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Ottman&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ottman&color=blue)
 
 
 ---
@@ -77,9 +78,8 @@ You can click the Preview link to take a look at your changes.
     </p>
 </div>
 <br>
-<br>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ottman&color=blue)
+
 
 
