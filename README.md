@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 ### **💻✨ Favorite Quote**
 <div align="center" style="border: 2px dashed #512BD4; padding: 20px; background-color: #f0f8ff; border-radius: 10px;">
     <p style="font-size: 1.5em; font-style: italic; color: #333;">
-        "Writing code is like composing music—every line has a purpose!"
+        "Simplicity is the soul of efficiency."
     </p>
 </div>
 <br>
