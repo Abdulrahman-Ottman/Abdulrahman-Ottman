@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 ### 🔍 About Me
-- 👨‍💻 Junior dev | 🛠️ Geeked out on Laravel, .NET, PHP, C#, and always chasing the latest in AI
+- 👨‍💻 Back-End dev | 🛠️ Geeked out on Laravel, .NET, PHP, C#, and always chasing the latest in AI
 - 🎓 Third-year student at Damascus IT university, always leveling up my skills
 - 🌐 Web & mobile app fan, driven by curiosity and teamwork
 - 🌱 I’m currently learning more about laravel technology and databases. 
