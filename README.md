@@ -7,7 +7,7 @@
 <!-- About Me Section -->
 ### 🔍 About Me
 - 👨‍💻 Back-End dev | 🛠️ Geeked out on Laravel, .NET, PHP, C#, and always chasing the latest in AI
-- 🎓 Third-year student at Damascus IT university, always leveling up my skills
+- 🎓 Fourth-year student at Damascus IT university, Specialized in Software Engineering, always leveling up my skills
 - 🌐 Web & mobile app fan, driven by curiosity and teamwork
 - 🌱 I’m currently learning more about laravel technology and databases. 
 - 💡 Love learning, sharing, and building cool stuff with the dev community
